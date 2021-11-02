@@ -1,8 +1,12 @@
-# curriculum-databases-projects-template
+<div align="center">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </div>
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+# Create a database based on a diagram
 
+<div align="center">
+ <img alt="Microverse" src="https://user-images.githubusercontent.com/80895497/139960370-b1a82233-9c73-4f69-8508-a32cc75dbceb.png"/> </div>
+
+<br/>
 
 ## Getting Started
 
@@ -15,23 +19,23 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Rotimi Azeez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@rotimiazeez](https://github.com/rotimiazeez)
+- Twitter: [@harzeyzh](https://twitter.com/Harzeyzh)
+- LinkedIn: [@azeezrotimi019](https://www.linkedin.com/in/azeezrotimi019/)
 
-👤 **Author2**
+👤 **Ellaouzi Hamza**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [hamzaoutdoors](https://github.com/Hamzaoutdoors)
+- LinkedIn : [Hamza Ellaouzi](https://www.linkedin.com/in/hamza-ellaouzi-137a45b8/)
+- Twitter: [Hamza Ellaouzi](https://twitter.com/EllaouziHamza)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/rotimiazeez/diagram_database/issues).
 
 ## Show your support
 
@@ -39,10 +43,13 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration 💘
+- Microverse program ⚡
+- My standup team 😍
+- My family's support 🙌
+- MicroBros 😜
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/Hamzaoutdoors/Vet-clinic-database/blob/dev/MIT.md) licensed.
+
